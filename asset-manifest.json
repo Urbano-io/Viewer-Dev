@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://viewertesting.urbano.io/static/css/main.993ff702.css",
-    "main.js": "https://viewertesting.urbano.io/static/js/main.85e86dae.js",
+    "main.js": "https://viewertesting.urbano.io/static/js/main.f382c257.js",
     "index.html": "https://viewertesting.urbano.io/index.html",
     "main.993ff702.css.map": "https://viewertesting.urbano.io/static/css/main.993ff702.css.map",
-    "main.85e86dae.js.map": "https://viewertesting.urbano.io/static/js/main.85e86dae.js.map"
+    "main.f382c257.js.map": "https://viewertesting.urbano.io/static/js/main.f382c257.js.map"
   },
   "entrypoints": [
     "static/css/main.993ff702.css",
-    "static/js/main.85e86dae.js"
+    "static/js/main.f382c257.js"
   ]
 }
